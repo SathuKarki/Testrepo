@@ -1,4 +1,4 @@
 #!/bin/bash
 
-learningbash="Hello Sathiya"
+learningbash="Hello Friends"
 echo $learningbash
