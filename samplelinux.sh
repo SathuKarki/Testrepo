@@ -1,4 +1,4 @@
 #!/bin/bash
 
-learningbash="Hello everybody"
+learningbash="Hello all"
 echo $learningbash
